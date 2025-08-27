@@ -1,4 +1,4 @@
-# MystarlinkAai 🌍
+# MystarlinkAai
 
 This repo is for deploying on **Vercel**.  
 It redirects all traffic to the Hugging Face Space hosting the MystarlinkAai AI assistant.  
